@@ -67,7 +67,7 @@ https://bookbazzar-online-ph-a4.vercel.app
 1. Clone repository
 
 ```
-Clone Repository : https://github.com/HumayunKabirSobuj/b4a4-BookBazaar-server.git
+Clone Repository : https://github.com/humayun-dev-111/bookbazar-backend.git
 ```
 
 2. cd b4a4-BookBazaar-server
@@ -101,5 +101,5 @@ npm run start:dev
 
 Developed with ❤️ by [Md. Humayun Kabir Sobuj]
 
- Contact: devhumayun@gmail.com
+ Contact: humayunkabir506034@gmail.com
 
